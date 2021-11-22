@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vimarteleto
-- 👀 I’m interested in web development
+- 👀 I’m interested in back-end development
 - 🖥️ I’m currently working with Laravel
 - 🌱 I’m currently learning Node.js
 
