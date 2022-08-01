@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vimarteleto
 - 👀 I’m interested in back-end development
 - 🖥️ I’m currently working with PHP and Laravel
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Node and Nest
 
 - <a href="https://www.linkedin.com/in/viniciusmarteleto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a> 
 
